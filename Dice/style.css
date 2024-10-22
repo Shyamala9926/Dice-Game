@@ -2,12 +2,13 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    background-color: antiquewhite;
+    background-color: rgb(241, 221, 196);
 }
 
 .dice {
     display: flex;
     justify-content: center;
+    padding: 30px;
 }
 
 img {
