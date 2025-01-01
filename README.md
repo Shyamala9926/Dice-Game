@@ -1,3 +1,10 @@
+where fun meets excitement with every roll!"
+
+
+
+
+
+
 # Dice-Game
 by using HTML ,CSS,Javascript.
 ## Discription
