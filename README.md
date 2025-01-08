@@ -4,6 +4,7 @@ by using HTML,CSS,Javascript.
 Roll the dice and test your luck on our engaging and interactive dice game website, where fun meets excitement with every roll.
 
 
+![image](https://github.com/user-attachments/assets/c6783720-f145-4caf-9a43-b01e2d99e568)
 
 
 ![image](https://github.com/user-attachments/assets/2175af25-e1a5-45b5-9c33-f30ee832aa4a)
