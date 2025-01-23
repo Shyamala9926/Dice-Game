@@ -7,7 +7,7 @@ Roll the dice and test your luck with this engaging and interactive Dice Game bu
 - 🏆 Displays the winner after each round.
 - 🔄 Option to restart and play again.
 
-- ## 🛠️ Technologies Used
+ ## 🛠️ Technologies Used
 - **HTML**: For the structure of the game.
 - **CSS**: For styling and visual appeal.
 - **JavaScript**: For the game logic and interactivity.
