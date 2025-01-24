@@ -1,6 +1,7 @@
 # Dice Game 🎲
 
 Roll the dice and test your luck with this engaging and interactive Dice Game built using **HTML**, **CSS**, and **JavaScript**. 
+
 ## 🌟 Features
 - 🎲 Two-player gameplay to challenge your friends.
 - ⚡ Simple, sleek, and responsive design.
