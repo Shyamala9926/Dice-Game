@@ -15,8 +15,7 @@ Roll the dice and test your luck with this engaging and interactive Dice Game bu
   ## 🚀 How to Play
 1. Each player clicks the **Roll Dice** button.
 2. The dice will display a random number between 1 and 6 for each player.
-3. The player with the higher number wins the round!
-4. Hit the restart button to play again.
+
 
 ![image](https://github.com/user-attachments/assets/2175af25-e1a5-45b5-9c33-f30ee832aa4a)
 
